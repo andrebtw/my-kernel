@@ -1,2 +1,2 @@
-# os-corrupt-fake
-Bootable OS that will fake OS corrupted
+# my-kernel
+Wanted to make my own kernel.
